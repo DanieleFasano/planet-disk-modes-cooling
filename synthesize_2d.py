@@ -8,6 +8,8 @@ import sys
 # file extension "file_ext" to append to the output files from the command line
 # arguments.
 
+print('Did you remember to update param file with correct parameters? Yes? Good. No? You idiot, go change them.')
+
 nr_new = int(sys.argv[1])
 nphi = int(sys.argv[2])
 m_max = int(sys.argv[3])
